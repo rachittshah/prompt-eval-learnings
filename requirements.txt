@@ -1,0 +1,6 @@
+llama_index
+openai
+promptimize
+datasets
+matplotlib
+seaborn
